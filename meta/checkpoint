@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\myGobang/meta/varriable.ckpt"
+all_model_checkpoint_paths: "F:\\myGobang/meta/varriable.ckpt"
